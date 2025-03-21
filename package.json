@@ -1,0 +1,11 @@
+{
+  "name": "@prodigalai/prodigal-trader",
+  "version": "1.0.0",
+  "description": "This is open source repository for prodigal AI trading engine",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ProdigalAI",
+  "license": "ISC"
+}
